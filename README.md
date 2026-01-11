@@ -42,13 +42,9 @@ The dashboard summarizes Virat Kohli’s career performance using KPIs and chart
 * **100s, 50s & Others** (Pie Chart)
 
 ---
-
 ## 🖼 Dashboard Preview
 
-![Virat Kohli Performance Dashboard]()
-
-> *(Replace the image path if required based on your repo structure)*
-
+![Virat Kohli Performance Dashboard](./virat-dashboard.jpeg)
 ---
 
 ## 📂 Dataset Information
